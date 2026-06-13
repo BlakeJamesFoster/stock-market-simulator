@@ -5,9 +5,6 @@ timestamped buy/sell orders, matches them against each other using
 price-then-time priority, and reports trade activity, per-stock running
 medians, and per-trader summaries.
 
-This was originally written as a data structures course project and has
-been cleaned up (naming, comments, project layout) for my portfolio.
-
 ## Overview
 
 The simulator reads an input "day" of trading activity:
